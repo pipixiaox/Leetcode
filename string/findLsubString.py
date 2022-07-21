@@ -14,7 +14,6 @@ class Solution:
         length = end - start
         i = 0
         while i < len(s):
-            
             # print("s[i]:",s[i])
             if s[i] not in exited:
                 # 将当前字符添加到字典中
@@ -49,15 +48,8 @@ class Solution:
             i += 1
         return length
 
-
-
-
 if __name__ == '__main__':
     s = Solution()
     s1 = "aaaaaaaaaaa"
     result = s.lengthOfLongestSubstring(s1)
     print(result)
-
-
-
-
