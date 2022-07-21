@@ -7,4 +7,5 @@ leetcode 代码与思路
 35. 搜索插入位置 [Python](https://github.com/pipixiaox/Leetcode/blob/main/biSearch/searchInsert.py) __Done__
 1482. 制作m束花所需的最少天数 [Python](https://github.com/pipixiaox/Leetcode/blob/main/biSearch/bloomDay.py) __Done__
 ## string 操作
+3. 无重复字符的最长子串 [Python](https://github.com/pipixiaox/Leetcode/blob/main/string/findLsubString.py) __Done__
 745. 前缀和后缀搜索 [Python](https://github.com/pipixiaox/Leetcode/blob/main/biSearch/wordFilter.py) __Ongoing__
