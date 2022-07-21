@@ -6,6 +6,9 @@ leetcode 代码与思路
 [Python](https://github.com/pipixiaox/Leetcode/blob/main/biSearch/targetSearch.py) __Done__
 35. 搜索插入位置 [Python](https://github.com/pipixiaox/Leetcode/blob/main/biSearch/searchInsert.py) __Done__
 1482. 制作m束花所需的最少天数 [Python](https://github.com/pipixiaox/Leetcode/blob/main/biSearch/bloomDay.py) __Done__
-## string 操作
+## string operation
 3. 无重复字符的最长子串 [Python](https://github.com/pipixiaox/Leetcode/blob/main/string/findLsubString.py) __Done__
 745. 前缀和后缀搜索 [Python](https://github.com/pipixiaox/Leetcode/blob/main/biSearch/wordFilter.py) __Ongoing__
+
+## list operation
+1260.二维网格的迁移 [Python](https://github.com/pipixiaox/Leetcode/blob/main/list/shiftGrid.py) __Done__
