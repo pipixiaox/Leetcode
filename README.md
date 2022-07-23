@@ -12,4 +12,7 @@ leetcode 代码与思路
 745. 前缀和后缀搜索(困难) [Python](https://github.com/pipixiaox/Leetcode/blob/main/biSearch/wordFilter.py) __Ongoing__
 
 ## list operation
-1260.二维网格的迁移(简单) [Python](https://github.com/pipixiaox/Leetcode/blob/main/list/shiftGrid.py) __Done__
+1260. 二维网格的迁移(简单) [Python](https://github.com/pipixiaox/Leetcode/blob/main/list/shiftGrid.py) __Done__
+
+## set operation
+757. 设置交集大小至少为2(困难) [Python](https://github.com/pipixiaox/Leetcode/blob/main/set/intersectionSizeTwo.py) __Ongoing__
