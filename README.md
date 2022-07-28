@@ -8,6 +8,7 @@ leetcode 代码与思路
 1482. 制作m束花所需的最少天数(中等) [Python](https://github.com/pipixiaox/Leetcode/blob/main/biSearch/bloomDay.py) __Done__
 ## string operation
 3. 无重复字符的最长子串(中等) [Python](https://github.com/pipixiaox/Leetcode/blob/main/string/findLsubString.py) __Done__
+6. z字形变换(中等) [Python+](https://github.com/pipixiaox/Leetcode/blob/main/string/convert.py) [Python++](https://github.com/pipixiaox/Leetcode/blob/main/string/convertbyFlag.py) __Done__ 
 409. 最长回文串(简单) [Python](https://github.com/pipixiaox/Leetcode/blob/main/string/longestPalindrome.py) __Done__
 745. 前缀和后缀搜索(困难) [Python](https://github.com/pipixiaox/Leetcode/blob/main/biSearch/wordFilter.py) __Ongoing__
 
